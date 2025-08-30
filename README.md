@@ -1,6 +1,7 @@
 # 🚀 Scaffold-ETH Contract Monitor (SimpleDeFiToken)*
+### Miguel Ferreira
 
-Este é um mini-projeto baseado no **Scaffold-ETH 2** que demonstra como monitorar um contrato ERC20 (com função especial de auto-burn) em tempo real via frontend **Next.js**.
+Este é um mini-projeto baseado no **Scaffold-ETH 2** que demonstra como monitorar um contrato ERC20 (com função especial de auto-burn) em tempo real via frontend **Next.js**. 
 
 ---
 
