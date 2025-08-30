@@ -117,6 +117,7 @@ contract SimpleDeFiToken is ERC20 {
 * O deploy depende do script `01_deploy_simpledefitoken.ts` em `packages/hardhat/deploy/`.
 * A página `contract-monitor` usa hooks do Scaffold-ETH para se conectar ao contrato e exibir dados em tempo real.
 * É necessário conectar uma carteira (ex.: MetaMask) à rede local Hardhat para visualizar os saldos.
+* Se você estiver usando o Windows, garanta que o OneDrive ou está desconectado ou que o projeto está fora das pastas conectadas ao backup do drive. O OneDrive não suporta links simbólicos (symlinks) que o Next.js cria em .next/static/css, e isso vai bugar seu deploy.
 
 ---
 
