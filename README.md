@@ -16,6 +16,9 @@ Este é um mini-projeto baseado no **Scaffold-ETH 2** que demonstra como monitor
 
 ---
 
+>*“Você percebeu que todos os commits foram feitos apenas dentro da pasta 'package/'? É nela que fica o framework do Hardhat e o routing das páginas da aplicação. Para propósitos puramente pedagógicos, é onde se deve concentrar 95% das atividades dentro do Scaffold-ETH. Pelo amor de Deus, não mexa em nada fora da pasta 'package/', que pra quebrar essa merda é dois palito!”*
+>><p align="right"><b>Eu</b> (creator of Markov Logic Network)</p>
+
 ## 📂 Estrutura principal
 
 ```
