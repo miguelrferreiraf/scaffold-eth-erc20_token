@@ -104,7 +104,7 @@ contract SimpleDeFiToken is ERC20 {
 ---
 ## Resultado da execução final
 
-![Debug Contracts tab](https://github.com/scaffold-eth/scaffold-eth-2/assets/55535804/b237af0c-5027-4849-a5c1-2e31495cccb1)
+![Debug Contracts tab](https://raw.githubusercontent.com/miguelrferreiraf/scaffold-eth-erc20_token/refs/heads/main/img/contract_monitor.png)
 
 ---
 
